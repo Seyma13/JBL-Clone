@@ -11,7 +11,7 @@
 - **Frontend:** Html,Css,Scss 
 
 ## Ekran Görüntüsü
-![](JBL.gif);
+![](JBL.gif)
 
 ## 📞 İletişim  
 Her türlü öneri veya sorularınız için bizimle iletişime geçebilirsiniz:  
